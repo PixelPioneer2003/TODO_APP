@@ -22,5 +22,3 @@ This is the backend for a TODO application that supports all basic CRUD (Create,
 - **PUT /tasks/:id**: Update a task.
 - **DELETE /tasks/:id**: Delete a task.
 
-## Deployment
-The application is deployed on Render. You can access the live version of the API here: [TODO App Backend](https://todo-app-backend-ee9h.onrender.com)
