@@ -18,7 +18,7 @@ app.listen(port,()=>{
 //connect to the database 
 const dbConnect=require("./config/databse");
 dbConnect(); 
-// default route 
+// default route `
 app.get("/",(req,res)=>{
     res.send('<h1> THis is h1</h1>');
 })
